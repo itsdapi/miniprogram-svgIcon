@@ -1,0 +1,2 @@
+<!--svg-icon/svg-icon.wxml-->
+<view style="mask-image: url({{data}}); -webkit-mask-image: url({{data}}); background: {{color}}; height: {{size}}px; width: {{size}}px;" class="icon"></view>

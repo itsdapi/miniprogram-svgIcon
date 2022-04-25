@@ -1,0 +1,10 @@
+/* svg-icon/svg-icon.wxss */
+  .icon {
+	width: 24px;
+	height: 24px;
+	mask-repeat: no-repeat;
+	mask-size: cover;
+	background: green;
+	-webkit-mask-size: cover;
+	-webkit-mask-repeat: no-repeat;
+  }
