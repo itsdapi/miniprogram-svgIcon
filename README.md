@@ -14,3 +14,6 @@
 
 
 实现方式是mask-image 封装过后使用就很方便了
+
+参考
+[微信小程序 svg 换色](https://zhuanlan.zhihu.com/p/411727264)
