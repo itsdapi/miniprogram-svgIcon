@@ -17,3 +17,7 @@
 
 参考<br>
 [微信小程序 svg 换色](https://zhuanlan.zhihu.com/p/411727264)
+
+如果不行的话应该是svg没有压缩过<br>
+----
+[svg压缩](https://jakearchibald.github.io/svgomg/)
